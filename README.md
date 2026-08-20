@@ -1,4 +1,3 @@
-
 # Telecom Customer Churn Analysis Dashboard
 
 ## Overview
@@ -6,6 +5,11 @@
 The **Telecom Customer Churn Analysis Dashboard** is an interactive **Power BI data analytics project** designed to analyze customer churn patterns and identify high-risk customer segments.
 
 The dashboard analyzes **7,043 telecom customers** across customer demographics, contract types, services, payment methods, tenure and billing information. It uses **Power Query** for data transformation and **DAX** for dynamic KPIs and analytical measures.
+
+## Dashboard Preview
+
+<img width="1144" height="633" alt="TelecomDashboard" src="https://github.com/user-attachments/assets/8c19c40f-541e-402e-ab99-a978b63ce036" />
+
 
 ## Objectives
 
@@ -15,7 +19,7 @@ The dashboard analyzes **7,043 telecom customers** across customer demographics,
 * Analyze the relationship between customer tenure and churn.
 * Understand churn patterns across services and payment methods.
 * Monitor customer count, churn rate and billing-related KPIs.
-* Present insights through an interactive and easy-to-use dashboard.
+* Present insights through an interactive dashboard.
 
 ## Key Insights
 
@@ -99,6 +103,7 @@ Telecom-Customer-Churn-Analysis/
 ├── Telco_Cusomer_Churn.csv
 ├── Telecom_Customer_Churn_Dashboard.pbix
 ├── README.md
+│
 └── screenshots/
     └── dashboard.png
 ```
